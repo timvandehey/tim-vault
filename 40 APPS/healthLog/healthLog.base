@@ -1,0 +1,60 @@
+properties:
+  note.hl_weight:
+    displayName: Weight
+  note.hl-bp:
+    displayName: BP
+  note.hl-bs:
+    displayName: BS
+  note.hl-pulse:
+    displayName: Pulse
+  note.note:
+    displayName: Note
+  file.name:
+    displayName: Name
+  note.datetime:
+    displayName: DateTime
+  note.weight:
+    displayName: Weight
+views:
+  - type: table
+    name: All Entries
+    filters:
+      and:
+        - tags.contains("healthLog")
+        - "!datetime.isEmpty()"
+    order:
+      - datetime
+      - file.name
+      - weight
+      - note.note
+      - hl-bp
+      - hl-bs
+      - hl-pulse
+    sort:
+      - property: datetime
+        direction: DESC
+      - property: weight
+        direction: ASC
+      - property: hl_weight
+        direction: DESC
+      - property: file.name
+        direction: DESC
+      - property: note.note
+        direction: ASC
+    columnSize:
+      note.datetime: 185
+      file.name: 214
+      note.hl-bp: 81
+      note.hl-pulse: 100
+  - type: table
+    name: Weight
+    filters:
+      and:
+        - "!weight.isEmpty()"
+    order:
+      - file.name
+      - weight
+      - datetime
+    sort:
+      - property: datetime
+        direction: DESC

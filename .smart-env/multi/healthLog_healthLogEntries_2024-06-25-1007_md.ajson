@@ -1,0 +1,2 @@
+
+"smart_sources:healthLog/healthLogEntries/2024-06-25-1007.md": {"path":"healthLog/healthLogEntries/2024-06-25-1007.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"p85hn","at":1751636862093},"class_name":"SmartSource","last_import":{"mtime":1751578691798,"size":91,"at":1751636862093,"hash":"p85hn"},"blocks":{"#---frontmatter---":[1,6],"#":[8,9]},"outlinks":[{"title":"healthLog","target":"healthLog","line":8}],"metadata":{"tags":["healthLog"],"datetime":"2024-06-25T10:07:00","hl_weight":242}},

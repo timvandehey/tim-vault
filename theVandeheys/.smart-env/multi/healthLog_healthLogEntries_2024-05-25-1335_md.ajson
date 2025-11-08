@@ -1,0 +1,2 @@
+
+"smart_sources:healthLog/healthLogEntries/2024-05-25-1335.md": {"path":"healthLog/healthLogEntries/2024-05-25-1335.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"1jkcxmv","at":1751636862081},"class_name":"SmartSource","last_import":{"mtime":1751578691796,"size":137,"at":1751636862082,"hash":"1jkcxmv"},"blocks":{"#---frontmatter---":[1,9],"#":[11,12]},"outlinks":[{"title":"healthLog","target":"healthLog","line":11}],"metadata":{"tags":["healthLog"],"datetime":"2024-05-25T13:35:00","hl-bp":"127/71","hl-pulse":75,"hl-systolic":127,"hl-diastolic":71}},

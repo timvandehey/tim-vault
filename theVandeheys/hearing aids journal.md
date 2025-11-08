@@ -1,0 +1,22 @@
+- day 1 Wednesday 8/13 
+	- fitted for hearing aids
+	- dinner (outside) with friends - got phone call -had trouble answering. I could not hear and I think they could not hear me.
+- day 2 Thursday 8/14
+	- when in a quiet place, everything is heard (even chewing) (static like sound)
+	- later, static sound was still there (fountain) but not as noticeable
+	- drove convertible - wind sound was VERY loud.
+- day 3 Friday 8/15
+	- sent email regarding connection to Chromebook
+	- played golf in afternoon - lots of static/hissing noise (mostly in right ear) I assume from wind.
+	- still dealing with "static" sound
+		- for example, wearing a hat caused that sound whenever the hat moved
+- day 5 Sunday 8/17
+	- getting used to "static" but it's still there
+- day 6 Monday 8/18
+	- played golf - windy scratching (static) sound
+	- also, aids seemed to be getting loose in ear, I re-inserted them after golf and it seemed better
+- day 7 Tuesday 8/9
+	- I notice the hearing aids less
+- day 8 Wednesday 8/9
+	- played gold today. It was hot, so I sweated somewhat. Aids seem to "move" on ear causing "static" sound
+	- aids move to outer part of ear (back)

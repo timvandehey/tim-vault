@@ -1,0 +1,2 @@
+
+"smart_sources:healthLog/healthLogEntries/2024-03-27-1351.md": {"path":"healthLog/healthLogEntries/2024-03-27-1351.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"1e02a24","at":1751636862069},"class_name":"SmartSource","last_import":{"mtime":1751578691793,"size":137,"at":1751636862069,"hash":"1e02a24"},"blocks":{"#---frontmatter---":[1,9],"#":[11,12]},"outlinks":[{"title":"healthLog","target":"healthLog","line":11}],"metadata":{"tags":["healthLog"],"datetime":"2024-03-27T13:51:00","hl-bp":"142/65","hl-pulse":68,"hl-systolic":142,"hl-diastolic":65}},

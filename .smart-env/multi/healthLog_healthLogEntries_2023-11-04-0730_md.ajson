@@ -1,0 +1,2 @@
+
+"smart_sources:healthLog/healthLogEntries/2023-11-04-0730.md": {"path":"healthLog/healthLogEntries/2023-11-04-0730.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"2ksad4","at":1751636862066},"class_name":"SmartSource","last_import":{"mtime":1751578691790,"size":101,"at":1751636862066,"hash":"2ksad4"},"blocks":{"#---frontmatter---":[1,7],"#":[9,10]},"outlinks":[{"title":"healthLog","target":"healthLog","line":9}],"metadata":{"tags":["healthLog"],"datetime":"2023-11-04T07:30:00","hl-bs":141,"note":"fasting"}},

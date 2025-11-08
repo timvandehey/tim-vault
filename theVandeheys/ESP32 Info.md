@@ -1,0 +1,1 @@
+For a few bucks each, you can get RFID readers with dongles and cards, DHT22 temp/humidity sensors, relay boards, mmWave boards, PIR motion sensors, strain gauges to build scales, and all kinds of fun stuff to make your own IoT gadgets.

@@ -1,0 +1,2 @@
+
+"smart_sources:healthLog/healthLogEntries/2025-02-25-1030.md": {"path":"healthLog/healthLogEntries/2025-02-25-1030.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"1rx8cxn","at":1751636862100},"class_name":"SmartSource","last_import":{"mtime":1751578691799,"size":91,"at":1751636862100,"hash":"1rx8cxn"},"blocks":{"#---frontmatter---":[1,6],"#":[8,9]},"outlinks":[{"title":"healthLog","target":"healthLog","line":8}],"metadata":{"tags":["healthLog"],"datetime":"2025-02-25T10:30:00","hl_weight":237}},

@@ -1,0 +1,2 @@
+
+"smart_sources:healthLog/healthLogEntries/2025-03-07-1000.md": {"path":"healthLog/healthLogEntries/2025-03-07-1000.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"zcv1sw","at":1751636862101},"class_name":"SmartSource","last_import":{"mtime":1751578691799,"size":91,"at":1751636862101,"hash":"zcv1sw"},"blocks":{"#---frontmatter---":[1,6],"#":[8,9]},"outlinks":[{"title":"healthLog","target":"healthLog","line":8}],"metadata":{"tags":["healthLog"],"datetime":"2025-03-07T10:00:00","hl_weight":235}},

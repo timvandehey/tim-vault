@@ -1,0 +1,2 @@
+
+"smart_sources:healthLog/healthLogEntries/2025-05-19-0800.md": {"path":"healthLog/healthLogEntries/2025-05-19-0800.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"59qzh1","at":1751636862110},"class_name":"SmartSource","last_import":{"mtime":1751578691801,"size":91,"at":1751636862110,"hash":"59qzh1"},"blocks":{"#---frontmatter---":[1,6],"#":[8,9]},"outlinks":[{"title":"healthLog","target":"healthLog","line":8}],"metadata":{"tags":["healthLog"],"datetime":"2025-05-19T08:00:00","hl_weight":225}},

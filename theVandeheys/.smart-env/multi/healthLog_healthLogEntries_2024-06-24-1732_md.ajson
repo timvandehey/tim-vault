@@ -1,0 +1,2 @@
+
+"smart_sources:healthLog/healthLogEntries/2024-06-24-1732.md": {"path":"healthLog/healthLogEntries/2024-06-24-1732.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"1axk9sd","at":1751636862092},"class_name":"SmartSource","last_import":{"mtime":1751578691798,"size":137,"at":1751636862092,"hash":"1axk9sd"},"blocks":{"#---frontmatter---":[1,9],"#":[11,12]},"outlinks":[{"title":"healthLog","target":"healthLog","line":11}],"metadata":{"tags":["healthLog"],"datetime":"2024-06-24T17:32:00","hl-bp":"152/76","hl-pulse":79,"hl-systolic":152,"hl-diastolic":76}},
