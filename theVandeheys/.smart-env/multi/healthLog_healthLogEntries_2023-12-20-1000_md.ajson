@@ -1,2 +1,0 @@
-
-"smart_sources:healthLog/healthLogEntries/2023-12-20-1000.md": {"path":"healthLog/healthLogEntries/2023-12-20-1000.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"aem4fc","at":1751636862066},"class_name":"SmartSource","last_import":{"mtime":1751578691791,"size":91,"at":1751636862066,"hash":"aem4fc"},"blocks":{"#---frontmatter---":[1,6],"#":[8,9]},"outlinks":[{"title":"healthLog","target":"healthLog","line":8}],"metadata":{"tags":["healthLog"],"datetime":"2023-12-20T10:00:00","hl_weight":250}},

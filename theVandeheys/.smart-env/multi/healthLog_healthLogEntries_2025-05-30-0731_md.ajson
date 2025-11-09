@@ -1,2 +1,0 @@
-
-"smart_sources:healthLog/healthLogEntries/2025-05-30-0731.md": {"path":"healthLog/healthLogEntries/2025-05-30-0731.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"18wwkab","at":1751636862111},"class_name":"SmartSource","last_import":{"mtime":1751578691802,"size":91,"at":1751636862111,"hash":"18wwkab"},"blocks":{"#---frontmatter---":[1,6],"#":[8,9]},"outlinks":[{"title":"healthLog","target":"healthLog","line":8}],"metadata":{"tags":["healthLog"],"datetime":"2025-05-30T07:31:00","hl_weight":224}},

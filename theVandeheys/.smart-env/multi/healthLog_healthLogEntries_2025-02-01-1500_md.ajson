@@ -1,2 +1,0 @@
-
-"smart_sources:healthLog/healthLogEntries/2025-02-01-1500.md": {"path":"healthLog/healthLogEntries/2025-02-01-1500.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"zdz0ne","at":1751636862096},"class_name":"SmartSource","last_import":{"mtime":1751578691799,"size":141,"at":1751636862096,"hash":"zdz0ne"},"blocks":{"#---frontmatter---":[1,8],"#":[10,11]},"outlinks":[{"title":"healthLog","target":"healthLog","line":10}],"metadata":{"tags":["healthLog"],"datetime":"2025-02-01T15:00:00","hl_weight":245,"note":"1st Mounjara injection","mounjaro_start":true}},

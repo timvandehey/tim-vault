@@ -1,2 +1,0 @@
-- [x] reply to Dennis ✅ 2025-10-27
-- [x] cloudflare zero trust to https (condovpe) ✅ 2025-08-1

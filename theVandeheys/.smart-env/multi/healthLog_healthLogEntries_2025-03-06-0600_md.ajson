@@ -1,2 +1,0 @@
-
-"smart_sources:healthLog/healthLogEntries/2025-03-06-0600.md": {"path":"healthLog/healthLogEntries/2025-03-06-0600.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"r22u1t","at":1751636862100},"class_name":"SmartSource","last_import":{"mtime":1751578691799,"size":102,"at":1751636862100,"hash":"r22u1t"},"blocks":{"#---frontmatter---":[1,7],"#":[9,10]},"outlinks":[{"title":"healthLog","target":"healthLog","line":9}],"metadata":{"tags":["healthLog"],"datetime":"2025-03-06T06:00:00","hl_weight":236,"hl-bs":121}},

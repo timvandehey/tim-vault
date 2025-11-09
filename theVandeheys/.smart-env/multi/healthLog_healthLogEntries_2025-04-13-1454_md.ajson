@@ -1,2 +1,0 @@
-
-"smart_sources:healthLog/healthLogEntries/2025-04-13-1454.md": {"path":"healthLog/healthLogEntries/2025-04-13-1454.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"ro2e8k","at":1751636862108},"class_name":"SmartSource","last_import":{"mtime":1751578691800,"size":137,"at":1751636862108,"hash":"ro2e8k"},"blocks":{"#---frontmatter---":[1,9],"#":[11,12]},"outlinks":[{"title":"healthLog","target":"healthLog","line":11}],"metadata":{"tags":["healthLog"],"datetime":"2025-04-13T14:54:00","hl-bp":"118/72","hl-pulse":74,"hl-systolic":118,"hl-diastolic":72}},

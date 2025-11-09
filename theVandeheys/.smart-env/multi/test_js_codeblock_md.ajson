@@ -1,2 +1,0 @@
-
-"smart_sources:test js codeblock.md": {"path":"test js codeblock.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"a12ywu","at":1751636862032},"class_name":"SmartSource","last_import":{"mtime":1749772927207,"size":77,"at":1751636862032,"hash":"a12ywu"},"blocks":{"#---frontmatter---":[1,4],"#js":[5,11],"#js#{1}":[7,11]},"outlinks":[],"metadata":{"tags":["js"]}},

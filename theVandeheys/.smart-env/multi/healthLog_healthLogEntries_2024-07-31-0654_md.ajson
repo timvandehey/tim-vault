@@ -1,2 +1,0 @@
-
-"smart_sources:healthLog/healthLogEntries/2024-07-31-0654.md": {"path":"healthLog/healthLogEntries/2024-07-31-0654.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"12twh32","at":1751636862096},"class_name":"SmartSource","last_import":{"mtime":1751578691798,"size":102,"at":1751636862096,"hash":"12twh32"},"blocks":{"#---frontmatter---":[1,7],"#":[9,10]},"outlinks":[{"title":"healthLog","target":"healthLog","line":9}],"metadata":{"tags":["healthLog"],"datetime":"2024-07-31T06:54:00","hl_weight":244,"hl-bs":178}},
