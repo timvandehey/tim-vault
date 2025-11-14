@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "a4e821aae46cd64f",
+            "id": "387558d64f6885f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -290,10 +290,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a4e821aae46cd64f",
+  "active": "387558d64f6885f9",
   "lastOpenFiles": [
-    "theVandeheys/40 APPS/healthLog/healthLog.md",
+    "testMd.md",
+    "testhtml.html",
     "home.md",
+    "syncThing.md",
+    "Prayer List.md",
+    "theVandeheys/40 APPS/healthLog/healthLog.md",
     "theVandeheys/40 APPS/healthLog/healthLogEntries/2025-02-01-1500.md",
     "40 APPS/healthLog/healthLogEntries/2025-02-01-1500.md",
     "40 APPS/healthLog/healthLogEntries/2025-06-30-0900.md",
@@ -316,10 +320,6 @@
     "ESP32 Info.md",
     "40 APPS/healthLog/healthLog.base",
     "stays in Obsidian/dataview testing.md",
-    "jskadhf.md",
-    "stays in Obsidian/test note.md",
-    "pushover and n8n.md",
-    "hearing aids journal.md",
     "Excalidraw",
     "stays in Obsidian/countryside_golf_score.jpg",
     "stays in Obsidian/countryside_golf_map.jpg",
@@ -332,7 +332,6 @@
     "40 APPS",
     "90 SYSTEM",
     "90 SYSTEM/js/coolString.js",
-    "My code file.js",
     "Untitled.canvas"
   ]
 }
